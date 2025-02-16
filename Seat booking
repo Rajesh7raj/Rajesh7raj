@@ -1,0 +1,16 @@
+available_seats = 10
+while seats_available >0:
+      print(f"seats available : {seats_available}")
+
+booking_choice == input("Do you want to book a seat? (yes/no): ").lower()
+
+if booking_choice == "yes":
+    seats_available -= 1  #decrement available seats
+    print("seat booked successful")
+elif booking_choice == "no":
+    print("okay,no seat booked.")
+else:
+    print("Invalid input.please enter 'Yes' or 'No'.")
+if seats_available == 0:
+    print ("All seats are booked.Thank You!")
+   
