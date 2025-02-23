@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning about cybersecurity
 - 💞️ I’m looking to collaborate with who are interested in Cybersecurity
-- 📫 How to reach out me rajeshyib@gmail.com or https://GitHub.com/Rajesh7raj
+- 📫 How to reach out me rajeshyib@gmail.com 
 - ⚡ Fun fact: coding is difficult
 - 
 
