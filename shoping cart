@@ -1,0 +1,9 @@
+items_available = {'apple':2,'banana':2} booking_choice = input(Do you want to order a fruits (yes/no)).lower()
+ if booking_choice "yes"
+    Print("which fruits want to order")
+ elif booking_choice =="no"
+    Print("Okay no problem.visit again")
+else:
+    Print("invalid input please enter 'yes' or 'no'.")
+booking_choice == 0:
+   Print("All fruits are ordered. Thank you")
