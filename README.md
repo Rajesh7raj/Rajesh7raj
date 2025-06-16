@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajesh7raj
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning about cybersecurity
-- 💞️ I’m looking to collaborate with who are interested in Cybersecurity
+- 🌱 I’m currently learning about coding
+- 💞️ I’m looking to collaborate with those who are interested in Coding
 - 📫 How to reach out me rajeshyib@gmail.com 
 - ⚡ Fun fact: coding is difficult
 - 
